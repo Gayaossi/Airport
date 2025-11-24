@@ -124,7 +124,7 @@ npm run test:watch
 npm run lint
 ```
 
-## 📊 Data Models
+## 📊 Data Models:
 
 ### Flight
 - ID, Flight Number, Airline
